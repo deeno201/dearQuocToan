@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Em hiểu anh quá mà QT ơiii em cũng yêu QT nhiềuu ',
     messDesc: 'QT hứa với em là lớn thêm 1 tuổi rồi thì phải sống thật là hạnh phúc nhó và em luôn ở bên cạnh để tô điểm cuộc đời anh nìeeee <3333',
     btnAccept: 'Ô cê con gà đen',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.youtube.com/watch?v=-bwzbVAqLUs' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
