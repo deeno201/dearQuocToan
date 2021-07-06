@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    introTitle: 'Xin chào em pé của Dịu Ngox ᵔ ᴥ ᵔ',
+    introDesc: `Em có điều này muốn hỏi anh nhớ phải trả lời thật lòng nhaa `,
+    btnIntro: 'Game là dễ luônnn',
+    title: 'Liệu rằng có em bên đời thì Quốc Toàn có vui hem ._.',
+    desc: 'Quân tử nhất ngôn không chơi trò cánh bướm dối gian nhó!!!',
+    btnYes: 'Yêu ơi là yêu luôn yêu vl ',
+    btnNo: 'Em mơ à :P Ai thèmmm',
+    question:'Ui chao em biết màaa ๑ > ᴗ < ๑ Thế tại sao dọ??? ',
+    btnReply: 'Gửi cho baby <3',
+    reply: 'Vì có emmm, anh chỉ cần mỗi em mà thôiiii (づ￣ ³￣)づ',
+    mess: 'Em hiểu anh quá mà QT ơiii em cũng yêu QT nhiềuu ',
+    messDesc: 'QT hứa với em là lớn thêm 1 tuổi rồi thì phải sống thật là hạnh phúc nhó và em luôn ở bên cạnh để tô điểm cuộc đời anh nìeeee <3333',
+    btnAccept: 'Ô cê con gà đen',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
